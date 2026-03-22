@@ -66,9 +66,12 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.form:nth-child(2) {
+  margin-top: 20px;
+}
+
 .form__input--wide {
   padding-left: 62px;
-  margin-bottom: 20px;
   background-position-x: 25.5px;
   background-size: 19px;
 }
@@ -80,7 +83,6 @@
   background-position-x: 13px;
   background-size: 11px;
 
-  box-shadow: 0 1px 8px rgba(61, 67, 97, 0.1);
   text-shadow: 0 11px 8px rgba(255, 255, 255, 0.25);
 }
 
